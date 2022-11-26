@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Állatozoo</string>
+
+    <string name="bear_Name">Barna medve</string>
+    <string name="bear_Description">
+        A barna medve a medvefélék családjának legelterjedtebb faja, a ragadozók rendjének egyik legnagyobb termetű szárazföldi faja.
+        \n\nTesttömeg: 80 – 600 kg (Felnőtt)
+        \n\nTerritórium mérete: 320 km² (Hím, brit columbiai populáció), 120 km² (Nőstény, brit columbiai populáció)
+        \n\nSebesség: 56 km/h (Maximum)
+        \n\nMagasság: 70 – 150 cm (Felnőtt, vállnál)
+        \n\nÉlettartam: 20 – 30 év (vadon élő)
+        \n\nTudományos név: Ursus arctos
+    </string>
+
+    <string name="cat_Name">Macska</string>
+    <string name="cat_Description">
+        A macska, más néven házi macska kisebb termetű húsevő emlős, amely a ragadozók rendjén belül a macskafélék családjának Felis neméhez és vadmacska fajához tartozik. A vadmacska alfaja. Ügyes ragadozó, több mint 1000 faj tekinthető a zsákmányának.
+        \n\nÉlettartam: 12 – 18 év (háziasított)
+        \n\nVemhességi idő: 65 nap
+        \n\nTudományos név: Felis catus
+        \n\nTesttömeg: 4 – 5 kg (háziasított)
+        \n\nTesthossz: 46 cm (farok nélkül)
+        \n\nNapi alvásidő: 12 – 16 óra
+    </string>
+
+    <string name="cow_Name">Szarvasmarha</string>
+    <string name="cow_Description">
+        A szarvasmarha az emlősök osztályának párosujjú patások rendjébe, ezen belül a tülkösszarvúak családjába tartozó faj. Húsáért kezdték tenyészteni, később tejét is hasznosították, sőt, az ember munkáját is segítette igavonóként. Azóta számos fajtáját tenyésztették ki, részben visszakeresztezve a vad rokonokkal.
+        \n\nVemhességi idő: 283 nap
+        \n\nTesttömeg: 1 100 kg (Hím, Felnőtt, bika), 720 kg (Nőstény, Felnőtt, tehén)
+        \n\nTudományos név: Bos taurus
+        \n\nSebesség: 40 km/h (Maximum)
+        \n\nNapi alvásidő: 4 óra (Nőstény, Felnőtt, tehén)
+        \n\nMagasabb rendszertani kategória: Tulok
+    </string>
+
+    <string name="dog_Name">Kutya</string>
+    <string name="dog_Description">
+        A kutya vagy eb ujjon járó emlős ragadozó állat, a szürke farkas egy már kihalt alfajának háziasított formája. Az egyetlen olyan emlős állatfaj, amely tudományos nevében megkapta a familiaris, azaz a családhoz tartozó jelzőt. A kutyákat szokás a társállatok sorában emlegetni.
+        \n\nVemhességi idő: 58 – 68 nap
+        \n\nÉlettartam: 10 – 13 év
+        \n\nTudományos név: Canis lupus familiaris
+        \n\nMagasság: 15 – 110 cm (vállnál)
+        \n\nNapi alvásidő: 12 – 14 óra (Felnőtt)
+        \n\nSebesség: Német juhászkutya: 48 km/h, Angol agár: 72 km/h
+    </string>
+
+    <string name="elephant_Name">Elefánt</string>
+    <string name="elephant_Description">
+        Az afrikai elefánt az emlősök osztályának ormányosok rendjébe, ezen belül az elefántfélék családjába tartozó faj. Manapság a Föld legerősebb és legnagyobb szárazföldi emlősállata. Nemének a típusfaja.
+        \n\nTesttömeg: 6 000 kg (Hím, Felnőtt), 3 000 kg (Nőstény, Felnőtt)
+        \n\nVemhességi idő: 22 hónap
+        \n\nÉlettartam: 60 – 70 év
+        \n\nMagasság: 3,2 m (Hím, Felnőtt, vállnál), 2,2 – 2,8 m (Nőstény, Felnőtt, vállnál)
+        \n\nSebesség: 40 km/h (Maximum, futva)
+        \n\nTudományos név: Loxodonta africana
+        \n\nTáplálkozási szint: növényevő
+    </string>
+
+    <string name="ferret_Name">Vadászgörény</string>
+    <string name="ferret_Description">
+        A vadászgörény vagy házi görény emlős állat, a vad európai közönséges görény háziasított változata. Közeli rokona a mezei avagy molnárgörény. A közhiedelemmel ellentétben a görények nem rágcsálók, hanem ragadozók: a menyétfélék családjába tartoznak, ugyanoda, ahova a menyétek, borzok, vidrák is.
+        \n\nÉlettartam: 5 – 10 év
+        \n\nTesttömeg: 0,7 – 2 kg
+        \n\nTesthossz: 38 cm (farok nélkül)
+        \n\nVemhességi idő: 42 nap
+        \n\nTudományos név: Mustela putorius furo
+        \n\nFaj: M. putorius
+        \n\nFőosztály: Négylábúak (Tetrapoda)
+    </string>
+
+    <string name="hippo_Name">Víziló</string>
+    <string name="hippo_Description">
+        A nílusi víziló az emlősök osztályának párosujjú patások rendjébe, ezen belül a vízilófélék családjába tartozó faj. Nemének egyetlen élő és egyben típusfaja is.
+        \n\nTesttömeg: 1 500 – 1 800 kg (Hím, Felnőtt), 1 300 – 1 500 kg (Nőstény, Felnőtt)
+        \n\nSebesség: 30 km/h (galoppozva)
+        \n\nTudományos név: Hippopotamus amphibius
+        \n\nÉlettartam: 40 – 50 év
+        \n\nVemhességi idő: 243 nap
+        \n\nCsalád: Vízilófélék (Hippopotamidae)
+    </string>
+
+    <string name="horse_Name">Ló</string>
+    <string name="horse_Description">
+        A ló az emlősök osztályának a páratlanujjú patások rendjéhez, ezen belül a lófélék családjához tartozó faj. A törzsfejlődés során kialakult ló ma már csak háziasított vagy háziasítottból visszavadult formáiban ismert. Legközelebbi rokona a vadló. A háziasított alfajt házi ló névvel különböztethetjük meg.
+        \n\nÉlettartam: 25 – 30 év
+        \n\nVemhességi idő: 11 – 12 hónap
+        \n\nTesttömeg: 300 kg (Felnőtt)
+        \n\nSebesség: 88 km/h (Maximum, sprintelve)
+        \n\nTudományos név: Equus caballus
+        \n\nMagasság: Arab telivér: 1,4 – 1,6 m, Akhal teke: 1,5 – 1,6 m, Hannoveri ló: 1,6 – 1,7 m
+    </string>
+
+    <string name="koala_Name">Koala</string>
+    <string name="koala_Description">
+        A koala Ausztráliában őshonos erszényes, növényevő állat, a koalafélék családjának egyedüli élő képviselője. A koala szó a katang bennszülött nép nyelvéből származik, jelentése „nem ivó”. A név nem teljesen találó, bár tényleg keveset isznak.
+        \n\nÉlettartam: 13 – 18 év (vadon élő)
+        \n\nTesttömeg: 4 – 15 kg (Felnőtt)
+        \n\nTudományos név: Phascolarctos cinereus
+        \n\nTesthossz: 60 – 85 cm (Felnőtt)
+        \n\nVemhességi idő: 30 – 36 nap
+        \n\nTáplálkozási szint: növényevő
+        \n\nAlosztály: Erszényesek (Marsupialia)
+    </string>
+
+    <string name="lion_Name">Oroszlán</string>
+    <string name="lion_Description">
+        Az oroszlán a macskafélék családjába tartozó emlős. A tigris után ez a legnagyobb termetű és legelterjedtebb „nagymacska”. Vadon élő állománya rohamosan csökken, afrikai falkái tíz év alatt szinte megfeleződtek. A földrészen alig 25 000 példány maradt, természetvédelmi státusza sebezhetőre módosult.
+        \n\nTesttömeg: 190 kg (Hím, Felnőtt), 130 kg (Nőstény, Felnőtt)
+        \n\nTudományos név: Panthera leo
+        \n\nÉlettartam: 15 – 16 év (Nőstény, Felnőtt, vadon élő), 8 – 10 év (Hím, Felnőtt, vadon élő)
+        \n\nSebesség: 80 km/h (Maximum, rövid távon)
+        \n\nTesthossz: 1,8 – 2,1 m (Hím, fej-törzs-hossz), 1,6 – 1,8 m (Nőstény, fej-törzs-hossz)
+        \n\nMagasság: 1,2 m (Hím, Felnőtt, vállnál), 90 – 110 cm (Nőstény, Felnőtt, vállnál)
+        \n\nVemhességi idő: 110 nap
+    </string>
+
+    <string name="reindeer_Name">Rénszarvas</string>
+    <string name="reindeer_Description">
+        A rénszarvas az emlősök osztályának párosujjú patások rendjébe, ezen belül a szarvasfélék családjába és az őzformák alcsaládjába tartozó faj. Európában tarándszarvas és iramszarvas, Észak-Amerikában karibu néven is ismerik.
+        \n\nTesttömeg: 160 – 180 kg (Hím, Felnőtt), 80 – 120 kg (Nőstény, Felnőtt)
+        \n\nMagasság: 85 – 150 cm (Felnőtt, vállnál)
+        \n\nTudományos név: Rangifer tarandus
+        \n\nTesthossz: 1,8 – 2,1 m (Hím, Felnőtt), 1,6 – 2 m (Nőstény, Felnőtt)
+        \n\nSebesség: 60 – 80 km/h (futva, észak-amerikai populáció)
+        \n\nVemhességi idő: 222 nap
+    </string>
+
+    <string name="wolverine_Name">Rozsomák</string>
+    <string name="wolverine_Description">
+        A rozsomák az emlősök osztályának ragadozók rendjébe, ezen belül a menyétfélék családjába és a rozsomákformák alcsaládjába tartozó legnagyobb testű faj. Neve valamelyik szomszédos szláv nyelvből származhat. Népies neve: torkosborz. Jelenleg a Gulo nembe besorolt egyetlen faj.
+        \n\nTesttömeg: 9 – 25 kg (Felnőtt)
+        \n\nTudományos név: Gulo gulo
+        \n\nÉlettartam: 5 – 13 év (vadon élő)
+        \n\nTesthossz: 65 – 110 cm (Felnőtt)
+        \n\nTerritórium mérete: 130 – 260 km² (Nőstény, Felnőtt)
+        \n\nVemhességi idő: 30 – 50 nap
+        \n\nBesorolás: Faj
+    </string>
+</resources>

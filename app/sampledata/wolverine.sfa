@@ -1,0 +1,84 @@
+{
+   materials: [
+      {
+         name: "Material_44",
+         parameters: [
+            {
+               baseColor: [
+                  1,
+                  1,
+                  1,
+                  1,
+               ],
+            },
+            {
+               baseColorMap: "5",
+            },
+            {
+               normalMap: null,
+            },
+            {
+               interpolatedColor: null,
+            },
+            {
+               metallic: 0,
+            },
+            {
+               metallicMap: null,
+            },
+            {
+               roughness: 1,
+            },
+            {
+               roughnessMap: null,
+            },
+            {
+               reflectance: 0.5,
+            },
+            {
+               opacity: null,
+            },
+         ],
+         source: "build/sceneform_sdk/default_materials/fbx_material.sfm",
+      },
+   ],
+   model: {
+      attributes: [
+         "Position",
+         "TexCoord",
+         "Orientation",
+      ],
+      file: "sampledata/wolverine.fbx",
+      name: "wolverine",
+      scale: 0.5,
+      suggested_collision: {
+         center: {
+            x: 0,
+            y: 0,
+            z: 0,
+         },
+         size: {
+            x: 1,
+            y: 1,
+            z: 1,
+         },
+         type: "Box",
+      },
+   },
+   samplers: [
+      {
+         file: "sampledata\\wolverine.fbm/5.png",
+         name: "5",
+         pipeline_name: "sampledata\\wolverine.fbm/5.png",
+      },
+      {
+         file: "sampledata\\wolverine.fbm/7.png",
+         name: "7",
+         params: {
+            usage_type: "Data",
+         },
+         pipeline_name: "sampledata\\wolverine.fbm/7.png",
+      },
+   ],
+   version: "0.51:1",
+}
