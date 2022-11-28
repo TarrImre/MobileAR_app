@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
                     setAnimalDescription=getString(R.string.koala_Description);
                     setAnimalNamesSounds(setAnimalName,R.raw.koalasound);
                 }
-                if((augmentedimage.getName().equals("lion.jpg") && !isAdded) || (augmentedimage.getName().equals("lionv2.jpg") && !isAdded)) {
+                if((augmentedimage.getName().equals("lionv2.jpg") && !isAdded)) {
                     placeObject(arFragment, augmentedimage.createAnchor(augmentedimage.getCenterPose()), R.raw.lion);
                     setAnimalName=getString(R.string.lion_Name);
                     setAnimalDescription=getString(R.string.lion_Description);
