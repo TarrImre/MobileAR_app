@@ -2,7 +2,7 @@
 
 Mobil megoldások tárgyra készült projekt.
 
-[Demo](https://###)
+[Demo](https://www.youtube.com/watch?v=VCtR2EJ-JQ8)
 
 [Kis füzet online formátuma](https://github.com/TarrImre/MobileAR_app/blob/imibranch/demo/AllatozooMergedLite.pdf)
 
